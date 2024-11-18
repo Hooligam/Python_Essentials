@@ -1,5 +1,5 @@
 # Python_Essentials
-Repositorio com os primeiros passos no Python
+Repositorio dedicado a postar os exercicios de fixação de conhecimento
 
 ## Treinando condicional [if, elif, else]
 ### Nivel -> Basic
