@@ -7,3 +7,4 @@ Repositorio com os primeiros passos no Python
 2. [Calcular horas gastas em projetos]https://github.com/Hooligam/Python_Essentials/blob/main/calculo_de_horas.py
 3. [Verificando temperatura em servidor]https://github.com/Hooligam/Python_Essentials/blob/main/temperatura_servidor.py
 4. [Calcular IMC]https://github.com/Hooligam/Python_Essentials/blob/main/calcular_IMC.py
+5. [Idades]https://github.com/Hooligam/Python_Essentials/blob/main/idades.py
