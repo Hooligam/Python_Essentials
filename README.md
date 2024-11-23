@@ -8,3 +8,10 @@ Repositorio dedicado a postar os exercicios de fixação de conhecimento
 3. [Verificando temperatura em servidor]https://github.com/Hooligam/Python_Essentials/blob/main/temperatura_servidor.py
 4. [Calcular IMC]https://github.com/Hooligam/Python_Essentials/blob/main/calcular_IMC.py
 5. [Idades]https://github.com/Hooligam/Python_Essentials/blob/main/idades.py
+
+## Treinando condicional [for, While]
+### Nivel -> Basic
+
+6. [Maiornumero]https://github.com/Hooligam/Python_Essentials/blob/main/maionumero.py
+7. [jogorandomico]https://github.com/Hooligam/Python_Essentials/blob/main/maionumero.py
+8. [contagem]https://github.com/Hooligam/Python_Essentials/blob/main/maionumero.py
