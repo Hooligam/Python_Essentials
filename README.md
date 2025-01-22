@@ -33,6 +33,8 @@ Repositorio dedicado a postar os exercícios de fixação de conhecimento.
 3. **Contagem**
    - [contagem.py](https://github.com/Hooligam/Python_Essentials/blob/main/contagem.py)
 
+## Treinando Orientação a objetos (Classes)
+
 ### Nível: Intermediário
 
 #### Exercícios
