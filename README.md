@@ -23,7 +23,7 @@ Repositorio dedicado a postar os exercicios de fixação de conhecimento
 	* [https://github.com/Hooligam/Python_Essentials/blob/main/idades.py](https://github.com/Hooligam/Python_Essentials/blob/main/idades.py)
 
 
-## Treinando Condicional
+## Treinando Looping
 ------------------------
 
 ### Nivel -> Basic
