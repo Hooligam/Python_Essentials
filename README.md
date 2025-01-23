@@ -43,3 +43,5 @@ Repositorio dedicado a postar os exercícios de fixação de conhecimento.
    - [controle_remoto.py](https://github.com/Hooligam/Python_Essentials/blob/main/controle_remoto.py)
 2. **Clientes e Filmes**
    - [clientes_app.py](https://github.com/Hooligam/Python_Essentials/blob/main/clientes_app.py)
+2. **RPG Elias**
+   - [rpg_elias.py](https://github.com/Hooligam/Python_Essentials/blob/main/rpg_elias.py)
